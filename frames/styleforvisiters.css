@@ -1,0 +1,31 @@
+
+  /*トップ画面の装飾*/
+
+.home img{
+    width:100%;
+    height:auto;
+    display:block;
+  }
+
+
+  
+  .twitter-timeline, .instagram-media{
+    width: 50%;
+    height:600px;
+    margin:10px;
+
+  }
+  .instagram-media {
+    background: #FFF;
+    border: 0;
+    border-radius: 3px;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 10px 0 rgba(0, 0, 0, 0.15);
+    margin: 20px;
+    height:600px;
+    max-width: 540px;
+    min-width: 326px;
+    padding: 0;
+}
+  .snslinks{
+    display: flex;
+  }
